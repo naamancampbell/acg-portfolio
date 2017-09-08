@@ -7,3 +7,7 @@ My professional portfolio based on AWS and ReactJS.
 Chocolatey
 Git and github
 SSH
+HTML
+CSS
+Font Awesome
+Google Fonts 

@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# distribution directory for Webpack builds
+dist
+
+# lock files for JSON files
+*-lock.json
